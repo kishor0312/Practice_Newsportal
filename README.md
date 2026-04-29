@@ -1,4 +1,3 @@
-https://github.com/kishor0312/Practice_Newsportal.git
 
 # 📰 News Portal Project
 
